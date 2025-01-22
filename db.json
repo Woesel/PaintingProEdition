@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": "password123",
+      "name": "Admin User"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "status": "completed"
+    },
+    {
+      "id": "2edc",
+      "title": "new task",
+      "status": "pending"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Client A",
+      "email": "clienta@example.com",
+      "phone": "123-456-7890"
+    },
+    {
+      "id": 2,
+      "name": "Client B",
+      "email": "clientb@example.com",
+      "phone": "987-654-3210"
+    },
+    {
+      "id": "d2b4",
+      "name": "Freedom Tenzin",
+      "email": "freedomtenzin@gmail.com",
+      "phone": "1234567890"
+    }
+  ]
+}

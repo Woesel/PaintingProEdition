@@ -1,0 +1,7 @@
+{
+  "routes": {
+    "/<PaintingProEdition>": {},
+    "/<PaintingProEdition>/dashboard": {},
+    "/<PaintingProEdition>/login": {}
+  }
+}
